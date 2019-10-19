@@ -1,3 +1,4 @@
+
 # elevator-core
 Commoditizing how elevator works - algorithm to make how elevators move in a setup
 
@@ -7,7 +8,7 @@ Commoditizing this algorithm will lead into a proper utilization of the elevator
 
 The target of this is only to instruct elevator cart movement; not to touch the core hardware of elevator movement.
 
-Features:
+**Features**:
 1. Customizable elevator group design and floors where people can on-board/off-board from the elevators.
 2. Movement direction to be given to elevator upon receiving input requests (people press buttons to call the elevator).
 3. Output in terms of instruction to elevator hardware to move and serve (and its direction).
